@@ -1,0 +1,25 @@
+Variables
+
+	Son asignaciones de etiquetas de nombres para un valor de algún tipo de dato que puede ser cadena de texto, número, boolean, null o undefinded.
+
+
+
+Strings
+
+	Son cadenas de texto que se identifican por estar entre comilla simple. Por ejemplo '34345trte'
+
+
+Funciones (argumentos, return)
+
+	Una función es una operación comple o simple que se asigna para ejecutarse en un momento determinado. Está identificada por un nombre, puede (o no) recibir argumentos (variables)
+y siempre devuelve algo mediante el comando return, en caso de no tenerlo devuelve undefined.
+
+Declaraciones if
+
+	Son condicionales para hacerle comparaciones a un argumento. En caso de cumplirse una condición, ejecuta lo que contiene. 
+En caso contrario se pasa a las siguientes líneas.
+
+
+
+Valores booleanos (true, false)
+	Son valores donde se asigna si algo es verdadero o falso. Y sirven, por ejemplo, para comparar la respuesta de una declaración if (if (kiss=true){return something;}

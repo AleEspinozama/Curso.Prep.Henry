@@ -1,0 +1,8 @@
+FOR
+
+Los bucles for, son declaraciones que repiten un fragmento de código, mientras se cumpla (o no) cierta condición. 
+Por ejemplo, mientras una variable sea menor a otra. 
+Dentro de la declaración del for también se añade el valor inicial de la variable y el paso al que avanzará (i++).
+
+&&, ||, !
+Los operadores lógicos booleanos ayudan a determinar si se cumplen 2 condiciones con valor verdadero o falso y a determinar que pasa si una se cumple (||), si ambas se cumplen (&&)o si invertimos alguna (!).

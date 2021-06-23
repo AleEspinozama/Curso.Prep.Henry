@@ -1,0 +1,3 @@
+ARRAYS
+Son listas de elementos de cualquier tipo (números, strings,nulls, undefined, otros arreglos o incluso funciones)
+donde se guarda información y se accede a ella sabiendo el lugar que ocupan en la lista (al inicio, al final, o en cierta posición)

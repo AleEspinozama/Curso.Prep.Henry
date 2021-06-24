@@ -1,0 +1,39 @@
+Objetos
+Son colecciones de propiedades, como un álbum con diferentes canciones, que a su vez tienen un nombre y otras propiedades como nombre, duración, estilo, etc.
+
+
+
+
+Propiedades
+Las propiedades son asociaciones entre un nombre (o clave) y un valor. 
+Un ejemplo sería 
+Alumno 01: 
+	nombre:Chucho 
+	edad:12
+En ese caso el alumno 01 sería el objeto, y sus propiedades son nombre y edad con valor de Chucho y 12.
+
+
+
+
+Métodos
+Los métodos son funciones (o acciones precisas, órdenes) que se declaran dentro de un objeto.
+
+
+Bucle for…in
+Es una manera de recorrer las propiedades de un objeto. Al no conocer la longitud real de forma numérica, se puede usar para recorrer todas las propiedades dentro del objeto.
+
+const object = { a: 1, b: 2, c: 3 };
+
+for (const property in object) {
+  console.log(`${property}: ${object[property]}`);
+}
+
+
+Notación de puntos vs notación de corchetes
+la notación con punto es para acceder a una propiedad literal de un objeto (no puedes poner una variable y esperar que la interprete al momento de correr el código.
+
+	objeto.propiedad
+
+En cambio la notación con corchetes si permite una variable, pues busca entro de las propiedades alguna que contenga el mismo string que estamos presentando entre los corchetes.
+
+	objeto[variable]

@@ -1,0 +1,10 @@
+prototype
+
+El prototipo de un objeto es como su molde maestro, no sólo cuenta con las propiedades asignadas en el método constructor, sino que puede tener más métodos y otras propiedades definidas. 
+Cuando Javascript busque cierta propiedad en el constructor y no la encuentre, la va a buscar en el prototipo. 
+
+Un ejemplo es el método push para un array; aunque no esté definido dentro del objeto array, está en el prototipo array.__proto__
+
+
+Constructores (de clases)
+Son plantillas de objetos que se usan para tener un modelo predefinido. Representan entidades o conceptos como los sustantivos en el lenguaje común.

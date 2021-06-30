@@ -1,0 +1,22 @@
+
+      img{
+        width: 400px;
+      }
+     #thirdDiv {
+        width: 500px;
+       /* height: 600px;*/
+        background-color:black;
+        padding: 50px;
+        border-style: groove;
+        border-color: brown;
+        border-width: 12px;
+      }
+
+      h1 {
+        color:darkblue;
+      }
+
+      #spanId {
+        font-size: 18px;
+        margin: 50px;
+      }
